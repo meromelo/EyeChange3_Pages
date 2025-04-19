@@ -10,6 +10,7 @@ xcuserdata/
 *.swp
 tags
 _DOC
+GitUp
 
 ## Obj-C/Swift specific
 *.hmap
